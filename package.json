@@ -1,5 +1,6 @@
 {
-  "devDependencies": {
-    "@types/react-router-dom": "^5.1.5"
-  }
+    "devDependencies": {
+        "@types/react-router-dom": "^5.1.5"
+    }
+
 }
